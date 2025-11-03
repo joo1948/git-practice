@@ -1,11 +1,12 @@
 team : C
 
-manager: manager_c
+manager: change_manager
 
-coach: coach_c
+coach: 222222 
 
 members:
 - m1
 - m2
 - m3
-- banana
+- change_members_from_git
+
