@@ -8,4 +8,5 @@ members:
 - m1
 - m2
 - m3
-- member
+- change_members_from_git
+
